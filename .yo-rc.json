@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zero.notification",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "Notification",
+    "packageName": "com.zero.notification",
+    "packageFolder": "com/zero/notification",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTUwZjliN2VjMjA3YjNiN2VhYWFmNGNlYWE1MGYxMjcyZGE3NTAxZDdlYmE1ZGU1YTc4ZTdiZjEzYjUyYWQ2NGZjOTk3ZTNjMzQ2Zjc0MjA3NTIyYWRlY2EyZDNiZGZkNThmY2E3NzQxMjViNzQ3MjljYzJiZTE4MzhmMmQ2ODA=",
+    "enableTranslation": true,
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
